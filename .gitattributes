@@ -1,2 +1,4 @@
 lung/graph.pbtxt filter=lfs diff=lfs merge=lfs -text
 lung/task_0/mask_rcnn_task_0_0030.h5 filter=lfs diff=lfs merge=lfs -text
+lung1/graph.pbtxt filter=lfs diff=lfs merge=lfs -text
+lung1/task_0/mask_rcnn_task_0_0030.h5 filter=lfs diff=lfs merge=lfs -text
